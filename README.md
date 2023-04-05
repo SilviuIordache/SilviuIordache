@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SilviuIordache
 - 👀 I’m interested in front-end frameworks such as React and Vue
 - 🌱 I’m currently learning React
-- 📫 How to reach me: silviu.iordache92@gmail.com
+- 📫 How to reach me: silviu.iordache.dev@gmail.com
 
 <!---
 SilviuIordache/SilviuIordache is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
