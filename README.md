@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @SilviuIordache
-- 👀 I’m interested in front-end frameworks such as React and Vue
+- 👀 I’m interested in front-end development
+- My tech stasck is: React, Next.js, Typescript, PostgreSQL 
 - 📫 How to reach me: silviu.iordache.dev@gmail.com
 
 <!---
