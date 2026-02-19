@@ -1,13 +1,31 @@
-- 👋 Hi, I’m @SilviuIordache
-- 👀 I’m interested in front-end development
-- My tech stasck is: React, Next.js, Typescript, PostgreSQL 
-- 📫 How to reach me: silviu.iordache.dev@gmail.com
+# 👋 Hi, I’m Silviu
 
-### Projects ###
+Frontend dev who loves building things — from web apps to video games. Also guilty of overthinking component architecture.
 
-- 🎬[Movie gallery](https://github.com/SilviuIordache/nextjs-rendering-modes) - an app showcasing the different Next.js rendering modes (SSG, ISR, SSR, CSR)
+**Stack:** React · Next.js · TypeScript · PostgreSQL
 
-<!---
-SilviuIordache/SilviuIordache is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Been at:** Ubisoft 🎮 → Electronic Arts 🕹️ → Siemens ⚡ → Boehringer Ingelheim 💊
+
+
+📍 Bucharest, Romania
+
+---
+
+### What I've built
+**Web**
+- 🎬 [Next.js Rendering Modes](https://github.com/SilviuIordache/nextjs-rendering-modes) - Movie app showcasing SSG, ISR, SSR, and CSR in a single Next.js project
+
+
+<!--**Games**
+- 🎮 [Game Name](link) - short description (Godot)
+- 🕹️ [Game Name](link) - short description (GameMaker)
+- ⚛️ [Game Name](link) - short description (React)-->
+
+---
+
+
+### Let's connect
+- 📫 silviu.iordache.dev@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/silviu.iordache.dev)
+[![Silviu Iordache](https://img.shields.io/badge/Silviu%20Iordache-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SilviuDude)
