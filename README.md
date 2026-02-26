@@ -31,11 +31,6 @@ Frontend dev who loves building things — from web apps to video games. Also gu
 - 🎮 [SpaceRogue](https://github.com/SilviuIordache/SpaceRogue) - my bachelor degree project, a Binding of Isaac inspired game made in GameMakerStudio
 
 
-<!--**Games**
-- 🎮 [Game Name](link) - short description (Godot)
-- 🕹️ [Game Name](link) - short description (GameMaker)
-- ⚛️ [Game Name](link) - short description (React)-->
-
 ---
 
 
