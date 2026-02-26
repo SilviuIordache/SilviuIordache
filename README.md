@@ -17,7 +17,7 @@ Frontend dev who loves building things — from web apps to video games. Also gu
 
 - 🎬 [Next.js Rendering Modes](https://github.com/SilviuIordache/nextjs-rendering-modes) - Movie app showcasing SSG, ISR, SSR, and CSR in a single Next.js project
 - 🕹️ [React Games](https://github.com/SilviuIordache/react-games) - a collection of 3 games made in React: ReactionGrid, TypingSpeed and Minesweeper
-- 🖼️ [React Endless Gallery](https://github.com/SilviuIordache/photo-gallery) - a React Vite app showcasing endless scrolling and dynamic photo arrangement via a mansory grid algorithm
+- 🖼️ [React Endless Gallery](https://github.com/SilviuIordache/photo-gallery) - a React Vite app with endless scrolling & a dynamic mansory photo layout
 - ⏰ [Routin.io](https://github.com/SilviuIordache/rutin) - app for making your ideal morning routine & get inspired by celebrity routines
 - 🎨 [Painty](https://github.com/SilviuIordache/Painty) - web-based Paint app with timed game-like challenges (made in React)
 - 🟨 [SimonSays](https://github.com/SilviuIordache/simon) - a simon says clone made in vanilla javascript & using audio API in the browser
