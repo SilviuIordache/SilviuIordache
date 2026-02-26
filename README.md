@@ -12,14 +12,23 @@ Frontend dev who loves building things — from web apps to video games. Also gu
 ---
 
 ### What I've built
-**Web**
 
+**Web**
 
 - 🎬 [Next.js Rendering Modes](https://github.com/SilviuIordache/nextjs-rendering-modes) - Movie app showcasing SSG, ISR, SSR, and CSR in a single Next.js project
 - 🕹️ [React Games](https://github.com/SilviuIordache/react-games) - a collection of 3 games made in React: ReactionGrid, TypingSpeed and Minesweeper
 - 🖼️ [React Endless Gallery](https://github.com/SilviuIordache/photo-gallery) - a React Vite app showcasing endless scrolling and dynamic photo arrangement via a mansory grid algorithm
 - ⏰ [Routin.io](https://github.com/SilviuIordache/rutin) - app for making your ideal morning routine & get inspired by celebrity routines
 - 🎨 [Painty](https://github.com/SilviuIordache/Painty) - web-based Paint app with timed game-like challenges (made in React)
+- 🟨 [SimonSays](https://github.com/SilviuIordache/simon) - a simon says clone made in vanilla javascript & using audio API in the browser
+- 🌿 [Grow](https://github.com/SilviuIordache/grow) - a productivity/journaling/introspection app for evaluating your life areas and visualising them using Chart.js
+
+**Games**
+
+- 🤖 [FAR](https://github.com/SilviuIordache/FAR) - a continuation of the SpaceRogue project with more complex enemies and a following camera system
+- 👾 [Brawl](https://github.com/SilviuIordache/Brawl) - a project made for the internal EA Games 2017 game jam, won 2nd place
+- 🗼 [Towers](https://github.com/SilviuIordache/Towers) - a project made for the internal EA Games 2016 game jam, won 3rd place
+- 🎮 [SpaceRogue](https://github.com/SilviuIordache/SpaceRogue) - my bachelor degree project, a Binding of Isaac inspired game made in GameMakerStudio
 
 
 <!--**Games**
