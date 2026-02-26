@@ -28,7 +28,7 @@ Frontend dev who loves building things — from web apps to video games. Also gu
 - ⏰ [Routin.io](https://github.com/SilviuIordache/rutin) - app for making your ideal morning routine & get inspired by celebrity routines
 - 🎨 [Painty](https://github.com/SilviuIordache/Painty) - web-based Paint app with timed game-like challenges (made in React)
 - 🟨 [SimonSays](https://github.com/SilviuIordache/simon) - a simon says clone made in vanilla javascript & using audio API in the browser
-- 🌿 [Grow](https://github.com/SilviuIordache/grow) - a productivity/journaling/introspection app for evaluating your life areas and visualising them using Chart.js
+- 🌿 [Grow](https://github.com/SilviuIordache/grow) - a journaling app for evaluating your life areas and visualising them using Chart.js
 
 **Games**
 
