@@ -2,12 +2,19 @@
 
 Frontend dev who loves building things — from web apps to video games. Also guilty of overthinking component architecture.
 
+📍 Bucharest, Romania
+
 **Stack:** React · Next.js · TypeScript · PostgreSQL
 
-**Been at:** Ubisoft 🎮 → Electronic Arts 🕹️ → Siemens ⚡ → Boehringer Ingelheim 💊
+**Been at:** 
+
+- 🎮 [Ubisoft](https://www.ubisoft.com/en-gb)
+- 🕹️ [Electronic Arts](https://www.ea.com/en-gb)
+- ♻️ [Sensoneo](https://www.sensoneo.com/)
+- ⚡️ [Siemens](https://www.siemens-energy.com/global/en/home.html)
+- 💊 [Boehringer Ingelheim](https://www.boehringer-ingelheim.com/uk)
 
 
-📍 Bucharest, Romania
 
 ---
 
