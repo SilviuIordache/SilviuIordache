@@ -13,7 +13,11 @@ Frontend dev who loves building things — from web apps to video games. Also gu
 
 ### What I've built
 **Web**
+
+
 - 🎬 [Next.js Rendering Modes](https://github.com/SilviuIordache/nextjs-rendering-modes) - Movie app showcasing SSG, ISR, SSR, and CSR in a single Next.js project
+- ⏰ [Routin.io](https://github.com/SilviuIordache/rutin) - app for making your ideal morning routine & get inspired by celebrity routines
+- 🎨 [Painty](https://github.com/SilviuIordache/Painty) - web-based Paint app with timed game-like challenges (made in React)
 
 
 <!--**Games**
