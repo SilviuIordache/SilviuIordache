@@ -22,6 +22,7 @@ Frontend dev who loves building things — from web apps to video games. Also gu
 
 **Web**
 
+- 🪙 [RTK Redux Crypto Tracker](https://github.com/SilviuIordache/rtk-crypto-tracker) - A crypto tracking app showcasing RTK Redux & Query state sharing features
 - 🎬 [Next.js Rendering Modes](https://github.com/SilviuIordache/nextjs-rendering-modes) - Movie app showcasing SSG, ISR, SSR, and CSR in a single Next.js project
 - 🕹️ [React Games](https://github.com/SilviuIordache/react-games) - a collection of 3 games made in React: ReactionGrid, TypingSpeed and Minesweeper
 - 🖼️ [React Endless Gallery](https://github.com/SilviuIordache/photo-gallery) - a React Vite app with endless scrolling & a dynamic mansory photo layout
